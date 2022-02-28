@@ -1,0 +1,5 @@
+pip install git+https://github.com/faustomorales/keras-ocr.git#egg=keras-ocr
+pip install keras-ocr
+pip install opencv-python==4.5.4.58
+pip install tensorflow==2.1.0
+pip install h5py==2.10.0
